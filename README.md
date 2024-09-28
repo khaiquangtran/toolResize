@@ -3,7 +3,7 @@
 pip install opencv-python
 ```
 
-## Use
+## Usage
 
 ```bash
 python  toolResize --path "C:/Users/YourName" --size "(100, 200)"
